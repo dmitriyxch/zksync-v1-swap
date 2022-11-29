@@ -3,6 +3,7 @@ Install
 `npm i`
 
 wallets.txt - list of accounts, format public:private_key 
+
 finished.txt - list of finished accounts
 
 Run 
