@@ -1,0 +1,20 @@
+{
+  "name": "zkSync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cids": "^1.1.9",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.6.9",
+    "multiformats": "^10.0.2",
+    "yargs": "^17.6.2",
+    "zksync": "^0.13.1"
+  }
+}
